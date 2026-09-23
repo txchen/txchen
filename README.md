@@ -4,7 +4,7 @@ This could have been a shell script. Things escalated.
 
 | Project | What it does |
 | --- | --- |
-| [camou](https://github.com/txchen/camoucli) | Browser automation for agents. Someone else can click “Next.” |
+| [camoucli](https://github.com/txchen/camoucli) | Browser automation for agents. Someone else can click “Next.” |
 | [cloakhub](https://github.com/txchen/cloakhub) | Remote browsers for agents. Saved logins, fewer existential login crises. |
 | [hush](https://github.com/txchen/hush) | An encrypted vault for agent credentials. Even robots need to keep a secret. |
 
