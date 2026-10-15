@@ -21,6 +21,7 @@ This could have been a shell script. Things escalated.
 
 | Project | What it does |
 | --- | --- |
+| [altty](https://github.com/txchen/altty) | A lightweight macOS window switcher with keyboard hints and mouse-only scroll reversal. |
 | [kiwa](https://github.com/txchen/kiwa) | A terminal multiplexer with a workspace sidebar. Not your agent's babysitter. |
 | [xframe](https://github.com/txchen/xframe) | Xbox streaming on Apple Silicon. An unlikely roommate situation. **In development.** |
 | [ztube](https://github.com/ztube-org/ztube) | A family video library with viewing budgets. “One more video” now has a limit. |
