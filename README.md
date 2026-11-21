@@ -22,6 +22,7 @@ This could have been a shell script. Things escalated.
 
 | Project | What it does |
 | --- | --- |
+| [govault](https://github.com/txchen/govault) | A native desktop client for Vaultwarden and Bitwarden. 6.6 MB, because a password manager shouldn’t ship a browser. |
 | [altty](https://github.com/txchen/altty) | A lightweight macOS window switcher with keyboard hints and mouse-only scroll reversal. |
 | [kiwa](https://github.com/txchen/kiwa) | A terminal multiplexer with a workspace sidebar. Not your agent's babysitter. |
 | [xframe](https://github.com/txchen/xframe) | Xbox streaming on Apple Silicon. An unlikely roommate situation. **In development.** |
