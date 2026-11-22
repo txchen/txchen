@@ -27,7 +27,7 @@ This could have been a shell script. Things escalated.
 | [altty](https://github.com/txchen/altty) | A lightweight macOS window switcher with keyboard hints and mouse-only scroll reversal. |
 | [kiwa](https://github.com/txchen/kiwa) | A terminal multiplexer with Herdr’s workspace sidebar and agent status—13× smaller binary, up to 29× less CPU, and 0% idle. |
 | [xframe](https://github.com/txchen/xframe) | Xbox streaming on Apple Silicon. An unlikely roommate situation. **In development.** |
-| [ztube](https://github.com/ztube-org/ztube) | A family video library with viewing budgets. “One more video” now has a limit. |
+| [ztube](https://github.com/ztube-org/ztube) | A curated video app for kids with daily time budgets. No algorithm, no endless YouTube Minecraft slop. |
 | [mygo-music-lite](https://github.com/txchen/mygo-music-lite) | A native music player for Apple Silicon, with plugins for streaming. Your playlists don’t need a browser. |
 | [tmu](https://github.com/txchen/tmu) | Cached YouTube audio in your terminal. Your shell has a soundtrack now. |
 | [startree](https://github.com/txchen/startree) | A self-hosted home for bookmarks. Even the ones you’ll “read later.” |
