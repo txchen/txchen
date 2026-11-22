@@ -7,6 +7,7 @@ This could have been a shell script. Things escalated.
 | [camoucli](https://github.com/txchen/camoucli) | Browser automation for agents. Someone else can click “Next.” |
 | [cloakhub](https://github.com/txchen/cloakhub) | Remote browsers for agents. Saved logins, fewer existential login crises. |
 | [hush](https://github.com/txchen/hush) | An encrypted vault for agent credentials. Even robots need to keep a secret. |
+| [litepaseo](https://github.com/txchen/litepaseo) | A resource-conscious web console for Paseo coding agents. All your agents, none of the Electron tax. |
 
 ## Git & infrastructure
 
