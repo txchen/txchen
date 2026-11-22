@@ -27,6 +27,7 @@ This could have been a shell script. Things escalated.
 | [kiwa](https://github.com/txchen/kiwa) | A terminal multiplexer with a workspace sidebar. Not your agent's babysitter. |
 | [xframe](https://github.com/txchen/xframe) | Xbox streaming on Apple Silicon. An unlikely roommate situation. **In development.** |
 | [ztube](https://github.com/ztube-org/ztube) | A family video library with viewing budgets. “One more video” now has a limit. |
+| [mygo-music-lite](https://github.com/txchen/mygo-music-lite) | A native music player for Apple Silicon, with plugins for streaming. Your playlists don’t need a browser. |
 | [tmu](https://github.com/txchen/tmu) | Cached YouTube audio in your terminal. Your shell has a soundtrack now. |
 | [startree](https://github.com/txchen/startree) | A self-hosted home for bookmarks. Even the ones you’ll “read later.” |
 
