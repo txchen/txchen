@@ -26,7 +26,7 @@ This could have been a shell script. Things escalated.
 | [govault](https://github.com/txchen/govault) | A native desktop client for Vaultwarden and Bitwarden. 6.6 MB, because a password manager shouldn’t ship a browser. |
 | [altty](https://github.com/txchen/altty) | A lightweight macOS window switcher with keyboard hints and mouse-only scroll reversal. |
 | [kiwa](https://github.com/txchen/kiwa) | A terminal multiplexer with Herdr’s workspace sidebar and agent status—13× smaller binary, up to 29× less CPU, and 0% idle. |
-| [xframe](https://github.com/txchen/xframe) | Xbox streaming on Apple Silicon. An unlikely roommate situation. **In development.** |
+| [xframe](https://github.com/txchen/xframe) | Native Xbox Cloud & console streaming for Apple Silicon—11 MB, MetalFX/FSR 1, Core ML frame gen, and zero Electron tax. |
 | [ztube](https://github.com/ztube-org/ztube) | A curated video app for kids with daily time budgets. No algorithm, no endless YouTube Minecraft slop. |
 | [mygo-music-lite](https://github.com/txchen/mygo-music-lite) | A lightweight Apple Silicon fork of MyGo Music with streaming plugins—89% less app CPU during playback (0.85% vs. 7.85% upstream). |
 | [tmu](https://github.com/txchen/tmu) | Cached YouTube audio in your terminal. Your shell has a soundtrack now. |
